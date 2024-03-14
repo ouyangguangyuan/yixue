@@ -1,0 +1,34 @@
+{
+    "columns": {
+        "ID": {
+            "sdtype": "id"
+        },
+        "mc": {
+            "sdtype": "categorical"
+        },
+        "dj": {
+            "sdtype": "categorical"
+        },
+        "ks": {
+            "sdtype": "numerical",
+            "computer_representation": "Int64"
+        },
+        "ys": {
+            "sdtype": "numerical",
+            "computer_representation": "Int64"
+        },
+        "dizhi1": {
+            "sdtype": "categorical"
+        },
+        "latitude": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        },
+        "longitude": {
+            "sdtype": "numerical",
+            "computer_representation": "Float"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "primary_key": "ID"
+}

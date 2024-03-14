@@ -1,0 +1,41 @@
+{
+    "columns": {
+        "ID": {
+            "sdtype": "id"
+        },
+        "AU": {
+            "sdtype": "categorical"
+        },
+        "TI": {
+            "sdtype": "categorical"
+        },
+        "LA": {
+            "sdtype": "categorical"
+        },
+        "DT": {
+            "sdtype": "categorical"
+        },
+        "AB": {
+            "sdtype": "categorical"
+        },
+        "PY": {
+            "sdtype": "categorical"
+        },
+        "VL": {
+            "sdtype": "categorical"
+        },
+        "PG": {
+            "sdtype": "numerical",
+            "computer_representation": "Int64"
+        },
+        "GA": {
+            "sdtype": "categorical"
+        },
+        "DA": {
+            "sdtype": "datetime",
+            "datetime_format": "%Y/%m/%d"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "primary_key": "ID"
+}

@@ -1,0 +1,17 @@
+{
+    "columns": {
+        "AAA": {
+            "sdtype": "id"
+        },
+        "BBB": {
+            "sdtype": "numerical"
+        },
+        "CCC": {
+            "sdtype": "numerical"
+        }
+    },
+    "sequence_key": "AAA",
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "sequence_index": "BBB",
+    "primary_key": "AAA"
+}
